@@ -1,15 +1,12 @@
 from github:
 
 clone the app:
-> git clone https://github.com/badalraj444/Digital-Locker-System.git 
-(or unzip the zipped repo and save)
+
+> git clone https://github.com/badalraj444/Digital-Locker-System.git
+> (or unzip the zipped repo and save)
 > cd Digital-Locker-System
 > start docker-desktop first: must
 > wsl -d ubuntu (inside wsl now)
-> run: docker compose up --build
+> run: docker compose watch (preffered)
+> or run: docker compose up --build
 > go to link: http://localhost/
-
-
-
-
-
