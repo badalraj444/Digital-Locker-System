@@ -1,0 +1,5 @@
+digital-locker-system/
+├── client/ # React + Vite frontend
+├── backend/ # Node.js backend (e.g., Express)
+├── Dockerfile # Multi-stage build
+└── docker-compose.yml

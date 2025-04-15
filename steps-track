@@ -1,0 +1,7 @@
+. write the dockerfile
+. write docker-compose file
+. initialise back end and front end in src folder
+. add database in backend
+
+. check inter-operability of all points inside docker container
+. increment backend and front end for full imp
