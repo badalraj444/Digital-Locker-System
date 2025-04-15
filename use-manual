@@ -1,0 +1,6 @@
+. write the dockerfile
+. write docker-compose file
+. write the src files
+. run: docker compose up --build
+. go to link: http://localhost/
+
