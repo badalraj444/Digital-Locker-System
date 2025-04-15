@@ -1,0 +1,10 @@
+. write the dockerfile
+. write docker-compose file
+. write the src files
+. run: docker compose up --build
+. go to link: http://localhost/
+
+## at this stage, the backend, client and database(mysql) are successfully built and interconnected inside docker and are accessible on localhost ensuring interconnectivity and successful use of dockerfile and compose file
+
+next:
+to implement the project functional logic in src folders.
